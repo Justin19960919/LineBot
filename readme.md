@@ -6,9 +6,8 @@ that we want to lighten up the mood, and people ask you to tell a joke.
 I created this Line chatbot, so I could grab jokes and memes from the internet,
 and from instagram by just touching some buttons on the interface. Easy!
 
-In order to use the line chatbot, you must have the [Line](https://line.me/zh-hant/)
+In order to use the line chatbot, you must download the [Line](https://line.me/zh-hant/)
 app. To gain access to this line bot, please use this QR CODE: 
-![QRCODE](./qrcode.PNG)
 
+<img src="./qrcode.PNG" lt="drawing" width="200" height="200"/>
 
-If you have any problems, or upgrades, put a pull request.
