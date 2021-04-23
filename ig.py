@@ -9,7 +9,7 @@ import time
 class getPosts:
 
     RAPID_API_ENDPOINT = "https://instagram47.p.rapidapi.com/user_posts"
-    RAPID_API_KEY = "0c7074abe6msh8f13c4bd42a83abp1c441djsnd0657cbc3cfe"
+    RAPID_API_KEY = "{API KEY}"
     RAPID_API_HOST = "instagram47.p.rapidapi.com" 
 
     def __init__(self, username):
